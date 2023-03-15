@@ -1,0 +1,23 @@
+.abc{
+    background-color: burlywood;
+color: black;
+position: fixed;
+bottom: 0%;
+left: 0%;
+right: 0%;
+border: solid black;
+text-align: center; }
+.my {
+    background-color: burlywood ;
+    text-align: center;
+    border : solid black;
+    
+}
+.links {
+    list-style: none;
+}
+.links :hover { 
+    background-color: aqua;
+    cursor: pointer;
+width: 660px;
+}
